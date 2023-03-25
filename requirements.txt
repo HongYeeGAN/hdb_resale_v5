@@ -1,0 +1,6 @@
+streamlit
+plotly.express
+pandas
+streamlit_folium
+folium
+
